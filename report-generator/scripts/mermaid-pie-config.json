@@ -1,0 +1,33 @@
+{
+  "theme": "base",
+  "themeVariables": {
+    "pie1": "#2a6496",
+    "pie2": "#e74c3c",
+    "pie3": "#27ae60",
+    "pie4": "#f39c12",
+    "pie5": "#8e44ad",
+    "pie6": "#1abc9c",
+    "pie7": "#d35400",
+    "pie8": "#2980b9",
+    "pie9": "#c0392b",
+    "pie10": "#16a085",
+    "pie11": "#f1c40f",
+    "pie12": "#9b59b6",
+    "pieTitleTextSize": "18px",
+    "pieTitleTextColor": "#1a1a1a",
+    "pieSectionTextSize": "14px",
+    "pieSectionTextColor": "#ffffff",
+    "pieLegendTextSize": "14px",
+    "pieLegendTextColor": "#1a1a1a",
+    "pieOuterStrokeWidth": "1px",
+    "pieOuterStrokeColor": "#ffffff",
+    "pieOpacity": "1",
+    "primaryColor": "#dce8f5",
+    "primaryTextColor": "#1a1a1a",
+    "primaryBorderColor": "#2a6496",
+    "lineColor": "#2a6496",
+    "secondaryColor": "#e8f4fd",
+    "secondaryTextColor": "#1a1a1a",
+    "fontFamily": "PingFang TC, Noto Sans TC, sans-serif"
+  }
+}
